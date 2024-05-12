@@ -1,4 +1,7 @@
 body {
   background-color: green;
   font: 100;
+  font-family: sans-serif;
+  backface-visibility: visible;
+  font-size: medium;
 }
